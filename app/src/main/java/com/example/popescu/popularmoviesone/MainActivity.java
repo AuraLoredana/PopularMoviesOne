@@ -25,7 +25,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String API_KEY = "cf6711634c446a5de3c060894dbc55b5"; //put here your own api key
+    private static final String API_KEY = ""; //put here your own api key
     private static final String LANGUAGE = "en-US";
     private static final String PAGE = "1";
 
